@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  ssss
+=======
+this is second file 
+>>>>>>> b8a9d0d...  thi is first commit
